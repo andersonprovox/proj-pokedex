@@ -17,3 +17,4 @@ Projeto frontend de exibição de pokemons como uma pokedex.
 - Variáveis no CSS
 - Display GRID
 - Display Flex
+- Fetch API
